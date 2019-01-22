@@ -1,0 +1,15 @@
+title Crawling Project
+
+Server->Server:Reads config for crawling request
+Server->Server:Validate crawling request
+note right of Server:Checks if site is available\nChecks if category page is reachable\nChecks if database is running
+Server->Server:Retrieves category page source
+Server->Server:Determines page count and product count
+Server->Server:Determines all products urls
+Server->Service:Sends source parsing request
+loop for every product
+Service->Service:Retrieves product page source
+Service->Service:Determines product's name,seller count,price,comment count
+Service->Repository:Maps data to entity and sends to repository
+Repository->Repository:Saves entity to db
+end

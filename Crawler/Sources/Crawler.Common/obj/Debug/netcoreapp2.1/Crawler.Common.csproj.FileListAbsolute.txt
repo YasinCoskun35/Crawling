@@ -1,0 +1,9 @@
+C:\Work\Crawler\Sources\Crawler.Common\bin\Debug\netcoreapp2.1\Crawler.Common.deps.json
+C:\Work\Crawler\Sources\Crawler.Common\bin\Debug\netcoreapp2.1\Crawler.Common.dll
+C:\Work\Crawler\Sources\Crawler.Common\bin\Debug\netcoreapp2.1\Crawler.Common.pdb
+C:\Work\Crawler\Sources\Crawler.Common\obj\Debug\netcoreapp2.1\Crawler.Common.csprojAssemblyReference.cache
+C:\Work\Crawler\Sources\Crawler.Common\obj\Debug\netcoreapp2.1\Crawler.Common.csproj.CoreCompileInputs.cache
+C:\Work\Crawler\Sources\Crawler.Common\obj\Debug\netcoreapp2.1\Crawler.Common.AssemblyInfoInputs.cache
+C:\Work\Crawler\Sources\Crawler.Common\obj\Debug\netcoreapp2.1\Crawler.Common.AssemblyInfo.cs
+C:\Work\Crawler\Sources\Crawler.Common\obj\Debug\netcoreapp2.1\Crawler.Common.dll
+C:\Work\Crawler\Sources\Crawler.Common\obj\Debug\netcoreapp2.1\Crawler.Common.pdb

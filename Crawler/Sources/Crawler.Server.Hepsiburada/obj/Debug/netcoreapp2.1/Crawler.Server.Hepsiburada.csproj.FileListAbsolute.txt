@@ -1,0 +1,14 @@
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\bin\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.deps.json
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\bin\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.runtimeconfig.json
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\bin\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.runtimeconfig.dev.json
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\bin\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.dll
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\obj\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.csprojAssemblyReference.cache
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\obj\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.csproj.CoreCompileInputs.cache
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\obj\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.AssemblyInfoInputs.cache
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\obj\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.AssemblyInfo.cs
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\bin\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.pdb
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\bin\Debug\netcoreapp2.1\Crawler.Common.dll
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\bin\Debug\netcoreapp2.1\Crawler.Common.pdb
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\obj\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.csproj.CopyComplete
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\obj\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.dll
+C:\Work\Crawler\Sources\Crawler.Server.Hepsiburada\obj\Debug\netcoreapp2.1\Crawler.Server.Hepsiburada.pdb
